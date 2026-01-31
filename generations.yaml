@@ -1,8 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Ist"
+
 generations:
   - name: "First Generation (XP60)"
     start_year: 2002
-    end_year: 2007
+    end_year: 2005
     description: "The first-generation Toyota ist was introduced in Japan as a compact hatchback with distinctive boxy styling targeting young urban buyers, later exported to North America as the Scion xA and to China as the Toyota Zelas. Based on the same platform as the contemporary Yaris/Vitz but with a more substantial body design, the ist featured a tall, upright profile maximizing interior space within compact exterior dimensions. Powered by a 1.3-liter or 1.5-liter VVT-i engine in the Japanese market, paired with either a five-speed manual or four-speed automatic transmission, the ist offered modest but adequate performance for urban environments. The interior emphasized versatility with rear seats that could slide, fold, or be removed entirely, creating a flat cargo floor when needed. Despite its compact dimensions, the ist provided relatively spacious accommodations for passengers due to its efficient packaging and tall roof. Equipment levels were good for its segment, with features like automatic climate control, power accessories, and a premium audio system available. The ist established itself in the Japanese market as a practical, stylish compact car appealing particularly to younger buyers seeking versatility and distinctive design in a small package, while serving as one of the initial offerings for Toyota's youth-oriented Scion brand in North America."
+
+  - name: "First Generation (XP60 Facelift)"
+    start_year: 2005
+    end_year: 2007
+    description: "The first-generation Toyota ist received a significant facelift on May 30, 2005, introducing revised exterior styling with updated front and rear bumper designs, new headlights, and an updated grille. The interior received minor revisions including new trim options and updated equipment availability. After the facelift, the ist was only available through Toyota's Netz Store dealerships, replacing the previous availability at both Netz and Toyopet stores. The mechanical specifications remained largely unchanged, continuing with the 1.3-liter and 1.5-liter VVT-i engine options paired with manual or automatic transmissions. The facelifted model maintained its position as Toyota's youth-oriented compact hatchback, serving as the basis for the Scion xA in North America. The distinctive boxy styling was softened slightly while maintaining the tall, space-efficient profile that maximized interior volume within compact exterior dimensions."
 
   - name: "Second Generation (XP110)"
     start_year: 2007
